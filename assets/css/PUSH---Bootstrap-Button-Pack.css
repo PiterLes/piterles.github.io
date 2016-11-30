@@ -440,8 +440,8 @@ p {
 }
 
 .btn-success.outline {
-  border:2px solid #00bf6f;
-  color:#00bf6f;
+  border:2px solid #9dd418;
+  color:#9dd418;
 }
 
 .btn-success.outline:hover, .btn-success.outline:focus, .btn-success.outline:active, .btn-success.outline.active, .open > .dropdown-toggle.btn-success {
