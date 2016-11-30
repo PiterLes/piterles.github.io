@@ -1,10 +1,11 @@
 a {
   background:0 0;
+    color: #97c22e;
 }
 
 a:active, a:hover {
   outline:0;
-  color:white;
+  color:#9dd418;
 }
 
 h1 {
