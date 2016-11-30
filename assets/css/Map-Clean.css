@@ -32,3 +32,7 @@
   background-color:#eee;
 }
 
+a :hover
+{
+    color: #97c22e;
+}
