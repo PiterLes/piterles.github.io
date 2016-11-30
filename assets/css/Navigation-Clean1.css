@@ -29,11 +29,11 @@
 }
 
 .navigation-clean .navbar-brand:hover {
-  color:#222;
+  color:#97c22e;
 }
 
 .navigation-clean.navbar-inverse .navbar-brand:hover {
-  color:#f0f0f0;
+  color:#97c22e;
 }
 
 .navigation-clean .navbar-brand img {
@@ -77,7 +77,7 @@
 }
 
 .navigation-clean.navbar-default .navbar-nav > .active > a, .navigation-clean.navbar-default .navbar-nav > .active > a:focus, .navigation-clean.navbar-default .navbar-nav > .active > a:hover {
-  color:#8f8f8f;
+  color:#97c22e;
   box-shadow:none;
   background:none;
   pointer-events:none;
@@ -136,7 +136,7 @@
 }
 
 .navigation-clean.navbar-inverse .navbar-nav > .active > a, .navigation-clean.navbar-inverse .navbar-nav > .active > a:focus, .navigation-clean.navbar-inverse .navbar-nav > .active > a:hover {
-  color:#8f8f8f;
+  color:#97c22e;
   box-shadow:none;
   background:none;
   pointer-events:none;

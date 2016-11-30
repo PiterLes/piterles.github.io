@@ -35,11 +35,11 @@
 }
 
 .navigation-clean-search .navbar-brand:hover {
-  color:#222;
+  color:#97c22e;
 }
 
 .navigation-clean-search.navbar-inverse .navbar-brand:hover {
-  color:#f0f0f0;
+  color:#97c22e;
 }
 
 .navigation-clean-search .navbar-brand img {
@@ -83,7 +83,7 @@
 }
 
 .navigation-clean-search.navbar-default .navbar-nav > .active > a, .navigation-clean-search.navbar-default .navbar-nav > .active > a:focus, .navigation-clean-search.navbar-default .navbar-nav > .active > a:hover {
-  color:#8f8f8f;
+  color:#97c22e;
   box-shadow:none;
   background:none;
   pointer-events:none;
@@ -195,7 +195,7 @@
 }
 
 .navigation-clean-search.navbar-inverse .action-button:hover {
-  background:#39bf87;
+  background:#9dd418;
 }
 
 .navigation-clean-search .navbar-form label {
