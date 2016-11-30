@@ -177,7 +177,7 @@
 
 .navigation-clean-search .action-button, .navigation-clean-button .action-button:active {
   background:#97c22e;
-  border-radius:20px;
+  /*border-radius:20px;*/
   color:#fff !important;
   box-shadow:none;
   border:none;
