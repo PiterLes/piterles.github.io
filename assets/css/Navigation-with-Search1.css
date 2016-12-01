@@ -34,12 +34,12 @@
   color:inherit;
 }
 
-.navigation-clean-search .navbar-brand:hover {
-  color:#97c22e;
+.navigation-clean-search .navbar-brand:hover  {
+  
 }
 
-.navigation-clean-search.navbar-inverse .navbar-brand:hover {
-  color:#97c22e;
+.navigation-clean-search.navbar-inverse .navbar-brand:hover  {
+  
 }
 
 .navigation-clean-search .navbar-brand img {
@@ -223,4 +223,7 @@
 .navigation-clean-search .navbar-form .search-field:focus {
   border-bottom:1px solid #ccc;
 }
-
+/*font:hover
+{
+    color: #97c22e;
+}*/

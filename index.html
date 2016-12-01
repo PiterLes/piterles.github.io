@@ -35,7 +35,7 @@
     <div>
         <nav class="navbar navbar-inverse navbar-fixed-top navigation-clean-search">
             <div class="container">
-                <div class="navbar-header"><a class="navbar-brand navbar-link" href="#Main">ПИТЕРЛЕС </a>
+                <div class="navbar-header"><a class="navbar-brand navbar-link" href="#Main">ПИТЕР<font>ЛЕС</font> </a>
                     <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Навигация</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                 </div>
                 <div class="collapse navbar-collapse" id="navcol-1">
@@ -131,7 +131,7 @@
         <div class="container">
             <div class="intro">
                 <h2 class="text-center">КАК НАС НАЙТИ</h2>
-                <ul class="list-unstyled">
+                <ul class="list-unstyled" style="text-align:center;">
                     <li>Мы находимся по адресу: Санкт-Петербург, ул. Жуков д.19&nbsp;</li>
                     <li>Телефон: <a href="tel: +7 (812) 490-52-74" >+7 (812) 490-52-74</a> </li>
                     <li>E-mail: <a href="mailto: info@piterles.ru">info@piterles.ru</a>
@@ -191,6 +191,21 @@
              });
              });
 
+    </script>
+    <script>
+    
+    $('.navbar-header').hover(
+    function(){
+        $('font').css('color','#97c22e');
+        
+    },
+    function(){
+        $('font').css('color','#fff');
+        
+    }
+);
+    
+    
     </script>
 </body>
 
